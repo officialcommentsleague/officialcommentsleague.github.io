@@ -2,11 +2,10 @@
     "data": [{
             "kn": "kns",
             "meaning": [
-                "Keti namakarana sangayanawa",
-                "an abbreviation, which means 'likely' in english. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1."
+                "Keti namakarana sangayanawa"
             ],
             "example": [
-                "Boy: Pl ws",
+                "Boy: [Pl ws]",
                 "Girl: Mokak??",
                 "Boy: kns balanna",
                 "Girl: kns kiyanne??",
@@ -27,6 +26,19 @@
                 "Boy1: Did you just masturbate in the toilet??",
                 "Boy2: Gw",
                 "Boy1: Mah man"
+            ]
+        },
+        {
+            "kn": "Pl ws",
+            "meaning": [
+                "Pala wesi",
+                "An abbreviation, which means 'gtfo you whore' in english. Commonly used when you disagree with someone and you need to send them into some other dimension."
+            ],
+            "example": [
+                "Boy: Pl ws",
+                "Girl: What's pl ws??",
+                "Boy: Pala wesi",
+                "Girl: *fucking dies*"
             ]
         }
     ]
