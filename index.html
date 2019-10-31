@@ -7,17 +7,18 @@
 </head>
 
 <body>
+    <div id="filecontent"></div>
     <div class="kn">
         <h2>kns</h2>
         <p>keti namakarana sangayanawa</p>
         <div class="example">
-            <p><i>Boy: Pl ws</i></p>
-            <p><i>Girl: Mokak??</i></p>
-            <p><i>Boy: kns balanna</i></p>
-            <p><i>Girl: kns kiyanne??</i></p>
-            <p><i>Boy: Comments league group eken hadaapu keti nam set eka. Keti namakarana sangayanawa</i></p>
-            <p><i>...</i></p>
-            <p><i>Girl: Tho mata pala wesi kiwwada :((</i></p>
+            <p>Boy: Pl ws</p>
+            <p>Girl: Mokak??</p>
+            <p>Boy: kns balanna</p>
+            <p>Girl: kns kiyanne??</p>
+            <p>Boy: Comments league group eken hadaapu keti nam set eka. Keti namakarana sangayanawa</p>
+            <p>...</p>
+            <p>Girl: Tho mata pala wesi kiwwada :((</p>
         </div>
     </div>
     <div class="kn">
@@ -25,13 +26,20 @@
         <p>Godak wita</p>
         <p>an abbreviation, which means 'likely' in english. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1.</p>
         <div class="example">
-            <p><i>Boy1: Why you look happy?</i></p>
-            <p><i>Boy2: ...</i></p>
-            <p><i>Boy1: Did you just masturbate in the toilet??</i></p>
-            <p><i>Boy2: Gw</i></p>
-            <p><i>Boy1: Mah man</i></p>
+            <p>Boy1: Why you look happy?</p>
+            <p>Boy2: ...</p>
+            <p>Boy1: Did you just masturbate in the toilet??</p>
+            <p>Boy2: Gw</p>
+            <p>Boy1: Mah man</p>
         </div>
     </div>
 </body>
+
+<script>
+    document.getElementById('filecontent').innerHTML = 'hi';
+    fetch('https://officialcommentsleague.github.io/data.json')
+        .then(response => response.text())
+        .then(text => console.log(text))
+</script>
 
 </html>
