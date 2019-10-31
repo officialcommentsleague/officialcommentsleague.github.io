@@ -1,7 +1,10 @@
 {
     "data": [{
             "kn": "kns",
-            "meaning": "Keti namakarana sangayanawa",
+            "meaning": [
+                "Keti namakarana sangayanawa",
+                "an abbreviation, which means 'likely' in english. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1."
+            ],
             "example": [
                 "Boy: Pl ws",
                 "Girl: Mokak??",
@@ -15,8 +18,8 @@
         {
             "kn": "Gw",
             "meaning": [
-                "Keti namakarana sangayanawa",
-                "an abbreviation, which means 'likely' in english. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1."
+                "Godak wita",
+                "An abbreviation, which means 'likely' in english. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1."
             ],
             "example": [
                 "Boy1: Why you look happy?",
