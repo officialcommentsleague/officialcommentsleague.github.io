@@ -1,0 +1,11 @@
+.kn {
+    border-style: solid;
+    border-width: 1px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.example {
+    margin-left: 20px;
+    line-height: 5px;
+}
