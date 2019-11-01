@@ -15,10 +15,23 @@
             ]
         },
         {
+            "kn": "Pl ws",
+            "meaning": [
+                "Pala wesi",
+                "An abbreviation, which means 'gtfo you whore'. Commonly used when you disagree with someone and you need to send them into some other dimension."
+            ],
+            "example": [
+                "Boy: Pl ws",
+                "Girl: What's pl ws??",
+                "Boy: Pala wesi",
+                "Girl: *Fucking dies*"
+            ]
+        },
+        {
             "kn": "Gw",
             "meaning": [
                 "Godak wita",
-                "An abbreviation, which means 'likely' in english. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1."
+                "An abbreviation, which means 'likely'. Used by comments league nibbas in social media. Something 'gw' has a probability not less than 2/3 but 1."
             ],
             "example": [
                 "Boy1: Why you look happy?",
@@ -29,16 +42,59 @@
             ]
         },
         {
-            "kn": "Pl ws",
+            "kn": "Sw",
             "meaning": [
-                "Pala wesi",
-                "An abbreviation, which means 'gtfo you whore' in english. Commonly used when you disagree with someone and you need to send them into some other dimension."
+                "Samahara wita",
+                "An abbreviation, which means 'perhaps'. Used by comments league nibbas in social media. Something 'sw' has a probability not less than 1/3 but 2/3."
             ],
             "example": [
-                "Boy: Pl ws",
-                "Girl: What's pl ws??",
-                "Boy: Pala wesi",
-                "Girl: *fucking dies*"
+                "Girl: Yes honey. Put it in.",
+                "Boy: ...",
+                "Girl: Did you just put ur dick in my ass",
+                "Boy: Sw"
+            ]
+        },
+        {
+            "kn": "Tw",
+            "meaning": [
+                "Tikak wita",
+                "An abbreviation, which means 'Hmm I don't think so'. Used by comments league nibbas in social media. Something 'tw' has a probability greater than 0 and less than 1/3."
+            ],
+            "example": [
+                "Boy: Imma fuck yo ass today",
+                "Girl: Yesss sudaththi..",
+                "Boy: Did you clean your ass?",
+                "Girl: Tw",
+                "Boy: *Fucks anyway*",
+                "Both: *Fucking die by stink*"
+            ]
+        },
+        {
+            "kn": "Htt",
+            "meaning": [
+                "Huththa ('a' can be pronounced as in 'aaa' or 'err')",
+                "An abbreviation, which means 'pussy'"
+            ],
+            "example": [
+                "Boy: What do you need now??",
+                "Girl: Fuck me again honey",
+                "Boy: Htt mata ba meka karanna. Dawasata keeparak hukannada?",
+                "Girl: Hmm man yano wate",
+                "Boy: Hmm"
+            ]
+        },
+        {
+            "kn": "Pnny",
+            "meaning": [
+                "Ponnaya/Ponnayi",
+                "Ponnaya is an abbreviation, which means 'sex-less person'. Nobody has ever said ponnaya to a girl. Ponnayi means 'has qualities of ponnaya'. Comments league nibbas never use this against LGBT... people. But funny anyway."
+            ],
+            "example": [
+                "Boy: Ayi thamuse puka iragena site ekak liyanne kns walata. Urban dictionary danna tibbane.",
+                "Me: Publish wenne na api daana ewa lesiyen. E site eka pnny",
+                "Boy: Ah I see",
+                "Me: Pnny",
+                "Boy: *Fucking dies*"
             ]
         }
     ]

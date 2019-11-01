@@ -43,9 +43,9 @@ function processData(data) {
 
 var jsonURL = 'https://officialcommentsleague.github.io/data/data.json';
 if (testing) {
-    jsonURL = 'http://localhost:3000/data/data.json';
+    jsonURL = 'http://localhost:8080/data/data.json';
 }
 
-fetch(jsonURL, { mode: 'cors' })
+fetch(jsonURL)
     .then(response => response.json())
     .then(data => processData(data));
