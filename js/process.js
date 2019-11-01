@@ -26,6 +26,7 @@ function linkify(str) {
 function processData(data) {
     var html = '';
     for (element of data.data) {
+        if (element.kn.length == 0) continue;
         var idName = makeId(element.kn);
         html += `<div id=${idName} class="kn">`;
         html += `<h2><a href="#${idName}">${element.kn}</a></h2>`;
