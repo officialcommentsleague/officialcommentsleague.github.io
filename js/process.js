@@ -1,5 +1,5 @@
 function makeId(str) {
-    return 'kn_id_' + str.replace(' ', '-');
+    return 'kn_id_' + str.toLowerCase().replace(' ', '-');
 }
 
 function linkify(str) {
