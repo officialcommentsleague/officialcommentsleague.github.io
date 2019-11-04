@@ -369,13 +369,113 @@
             ]
         },
         {
-            "kn": "",
+            "kn": "Hhmde",
             "meaning": [
-
+                "Hama huttama meke danna epa",
+                "Used to stop shitposting in groups or chats"
+            ],
+            "example": [
+                "Boy1: Forwards an image",
+                "Boy1: Forwards an image",
+                "Boy1: Forwards an image",
+                "Boy1: Forwards an image",
+                "Boy2: Hhmde [Pl ws]",
+                "Boy1: :/"
+            ]
+        },
+        {
+            "kn": "Appry",
+            "meaning": [
+                "Appiriyayi",
+                "Used to express disgust"
+            ],
+            "example": [
+                "Girl: Hey, I'm home alone",
+                "Boy: Coming through!!!",
+                "Boy: *Comes*",
+                "Girl: *Takes the boy inside*",
+                "Boy: *Shows his Dammapadaya*",
+                "Girl: Didn't you bring condoms",
+                "Boy: Thamuse appry ne oi"
+            ]
+        },
+        {
+            "kn": "Bdd",
+            "meaning": [
+                "Badda",
+                "Gayan"
             ],
             "example": [
 
             ]
+        },
+        {
+            "kn": "Vc",
+            "meaning": [
+                "Video call",
+                "Used to ask for video calls. Always replied with ba or [Pl]."
+            ],
+            "example": [
+                "Boy1: Vc??",
+                "Boy2: Ba",
+                "Boy3: [Pl]",
+                "Boy1: Hmm"
+            ]
+        },
+        {
+            "kn": "Mnn",
+            "meaning": [
+                "Man nidiyawe na",
+                "Used to say that they were awake for the whole night. 1/mnn is the opposite."
+            ],
+            "example": [
+                "Boy1: Gm mnn",
+                "Boy2: [Sp]",
+                "Boy1: Gn"
+            ]
+        },
+        {
+            "kn": "Md",
+            "meaning": [
+                "Man duken",
+                "Used to express sadness"
+            ],
+            "example": [
+                "Boy1: *Calls in the messanger group*",
+                "Boy1: *Calls in the messanger group*",
+                "Boy1: *Calls in the messanger group*",
+                "Boy2: [Pl]ko wada denne nathuwa",
+                "Boy1: Nikan call kale. Md.",
+                "Boy3: Call karennepa huththo uber ekak daganna diyan",
+                "Boy4: Uber na ada wassa nisa",
+                "Boy1: Me [ws]o kohe yanawada manda ra wela"
+            ]
+        },
+        {
+            "kn": "Mkdo",
+            "meaning": [
+                "Man kalin damma oka",
+                "Used to flex. As same as, 'Don't site deep magic to me witch. I was there when it was written'. Who wrote that? 'Of course I know him. He's me.'"
+            ],
+            "example": [
+                "Boy1: *Sends something*",
+                "Boy2: Mkdo",
+                "Boy1: hmmmkpn"
+            ]
+        },
+        {
+            "kn": "Mkdo",
+            "meaning": [
+                "Mkdo :|"
+            ],
+            "example": [
+
+            ]
+        },
+        {
+            "kn": "",
+            "meaning": [],
+            "example": []
         }
     ]
 }
