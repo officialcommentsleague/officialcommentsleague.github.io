@@ -8,6 +8,10 @@
     padding-bottom: 20px;
 }
 
+.fade {
+    opacity: .5;
+}
+
 .example {
     margin-left: 20px;
 }
@@ -17,4 +21,13 @@
     margin-bottom: 0em;
     margin-top: 0.2em;
     line-height: auto;
+}
+
+#search {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 2em;
+    text-align: center;
+    display: block;
 }
